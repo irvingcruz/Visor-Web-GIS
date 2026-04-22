@@ -1,4 +1,4 @@
-# Web Mapping Application
+# Web GIS Platform
 
 ## Overview
 A full-stack web mapping application that visualizes geospatial data and georeferenced photos in real time.
